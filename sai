@@ -1,2 +1,30 @@
 hi sai how r u?/
+s public class Main {
+  public static void main(String[] args) {
+    System.out.println(Math.min(5, 10));  
+  }
+}
 
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(Math.min(5, 10));  
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(Math.min(5, 10));  
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(Math.min(5, 10));  
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(Math.min(5, 10));  
+  }
+}
